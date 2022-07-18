@@ -8,7 +8,7 @@
     background: url(ierndawg.png);
 }
 .custom.disconnected {
-    
+    background: url(https://gamepadviewer.com/xbox-assets/disconnected.svg)
 }
 .custom.disconnected div {
     display: none;
@@ -22,7 +22,7 @@
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/trigger.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/trigger.svg);
     opacity: 0;
 }
 .custom .trigger.left{
@@ -36,7 +36,7 @@
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/bumper.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/bumper.svg);
     opacity: 0;
 }
 .custom .bumpers{
@@ -65,7 +65,7 @@
     left: 306px;
 }
 .custom .back, .custom .start{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/start-select.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -91,7 +91,7 @@
 }
 .custom .button{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/abxy.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -129,7 +129,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/stick.svgz);
+    background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -153,7 +153,7 @@
     left: 223px;
 }
 .custom .face{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/dpad.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/dpad.svg);
     position: absolute;
     opacity: 0;
 }
